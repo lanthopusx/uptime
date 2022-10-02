@@ -2,7 +2,7 @@
   {
     "name": "Google",
     "url": "https://www.google.com",
-    "icon": "https://favicons.githubusercontent.com/www.google.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 82,
-    "timeDay": 73,
+    "timeDay": 85,
     "timeWeek": 82,
     "timeMonth": 82,
     "timeYear": 82,
@@ -20,7 +20,7 @@
   {
     "name": "Lanthopus",
     "url": "https://lanthopus.nl",
-    "icon": "https://favicons.githubusercontent.com/lanthopus.nl",
+    "icon": "https://icons.duckduckgo.com/ip3/lanthopus.nl.ico",
     "slug": "lanthopus",
     "status": "up",
     "uptime": "100.00%",
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 551,
-    "timeDay": 371,
-    "timeWeek": 551,
-    "timeMonth": 551,
-    "timeYear": 551,
+    "time": 540,
+    "timeDay": 493,
+    "timeWeek": 540,
+    "timeMonth": 540,
+    "timeYear": 540,
     "dailyMinutesDown": {}
   }
 ]
