@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 111,
-    "timeDay": 89,
-    "timeWeek": 136,
+    "timeDay": 86,
+    "timeWeek": 123,
     "timeMonth": 92,
     "timeYear": 111,
     "dailyMinutesDown": {}
@@ -24,17 +24,16 @@
     "slug": "lanthopus",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 491,
-    "timeDay": 768,
-    "timeWeek": 557,
+    "time": 492,
+    "timeDay": 507,
+    "timeWeek": 570,
     "timeMonth": 514,
-    "timeYear": 491,
+    "timeYear": 492,
     "dailyMinutesDown": {
-      "2023-03-07": 14,
       "2023-01-25": 15
     }
   }
