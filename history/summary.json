@@ -26,9 +26,9 @@
     "url": "https://lanthopus.nl",
     "icon": "https://icons.duckduckgo.com/ip3/lanthopus.nl.ico",
     "slug": "lanthopus",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -37,6 +37,8 @@
     "timeWeek": 473,
     "timeMonth": 461,
     "timeYear": 501,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-21": 0
+    }
   }
 ]
